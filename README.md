@@ -76,8 +76,8 @@ Machine learning and AutoML project focused on insurance claim prediction, model
 
 ## 💼 Professional Experience
 
-- Financial Services Consultant – NBFC Channel Sales & Operations
-- ICICI Prudential Life Insurance
+Financial Services Consultant – NBFC Channel Sales & Operations
+ICICI Life Insurance
 - Manage end-to-end Credit Life Insurance operations across NBFC partners, including Jio Credit Ltd., ICICI Home Finance and GIC Housing    Finance.
 - Manage the entire Andhra Pradesh and Telangana (APT) territory for Jio Credit Ltd., building and managing a quality portfolio exceeding   ₹80 crore.
 - Analyse loan applications, assess insurance eligibility and evaluate customer profiles for Credit Life coverage.
