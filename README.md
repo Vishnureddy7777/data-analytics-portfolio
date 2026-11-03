@@ -7,7 +7,7 @@ I'm interested in using data analytics, Python, SQL, and business intelligence t
 ### About Me
 - 🎓 BBA in Finance
 - 💼 Financial Services Consultant at ICICI Prudential Life Insurance
-- 📊 Learning Data Analytics with Gen AI through
+- 📊 Learning Data Analytics with Gen AI through IIIT Bangalore (International Institute of Information Technology Bangalore).
 - 🐍 Exploring Python, SQL, Power BI, and Machine Learning
 - 🎯 Interested in Data Analyst, Business Analyst, and Financial Analytics roles
 
